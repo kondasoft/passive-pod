@@ -4,6 +4,7 @@ Free Shopify theme powered by the Bootstrap framework (v5), developed respecting
 This Shopify theme was envisioned and sponsored by the "Passive POD Project" founder Will Jack.
 
 For more information please visit the "Passive POD Project" on Skool.
+
 https://www.skool.com/passivepod
 
 
