@@ -1,0 +1,10 @@
+{
+    "css.styleSheets": [
+        "/assets/utilities.css"
+    ],
+    "search.exclude": {
+        "/assets/bootstrap.bundle.js": true,
+        "/assets/bootstrap.css": true
+    },
+    "task.allowAutomaticTasks": "on"
+}
